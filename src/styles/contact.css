@@ -1,0 +1,24 @@
+#contactBody {
+    text-align: center;
+    color: white;
+    background: #5a5a59;
+    padding: 5px;
+}
+.contacts {
+    display: flex;
+    padding: 50px;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+.cont {
+    color: white;
+    padding: 5px;
+}
+@media only screen and (max-width:600px){
+    .contacts {
+        display: flex;
+    }
+    .cont {
+        flex-direction: row;
+    }
+}
