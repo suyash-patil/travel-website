@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/travel-website/static/css/main.94a664e3.chunk.css",
+    "main.js": "/travel-website/static/js/main.94e6f2eb.chunk.js",
+    "main.js.map": "/travel-website/static/js/main.94e6f2eb.chunk.js.map",
+    "runtime-main.js": "/travel-website/static/js/runtime-main.5d62c925.js",
+    "runtime-main.js.map": "/travel-website/static/js/runtime-main.5d62c925.js.map",
+    "static/js/2.7537489b.chunk.js": "/travel-website/static/js/2.7537489b.chunk.js",
+    "static/js/2.7537489b.chunk.js.map": "/travel-website/static/js/2.7537489b.chunk.js.map",
+    "index.html": "/travel-website/index.html",
+    "static/css/main.94a664e3.chunk.css.map": "/travel-website/static/css/main.94a664e3.chunk.css.map",
+    "static/js/2.7537489b.chunk.js.LICENSE.txt": "/travel-website/static/js/2.7537489b.chunk.js.LICENSE.txt",
+    "static/media/award.1ca6c258.svg": "/travel-website/static/media/award.1ca6c258.svg",
+    "static/media/compass.d03702e2.svg": "/travel-website/static/media/compass.d03702e2.svg",
+    "static/media/facebook.54b6ed17.svg": "/travel-website/static/media/facebook.54b6ed17.svg",
+    "static/media/heart.b65bcc72.svg": "/travel-website/static/media/heart.b65bcc72.svg",
+    "static/media/instagram.4e7b4d58.svg": "/travel-website/static/media/instagram.4e7b4d58.svg",
+    "static/media/linkedin.9e52cf32.svg": "/travel-website/static/media/linkedin.9e52cf32.svg",
+    "static/media/mail.eee1baa7.svg": "/travel-website/static/media/mail.eee1baa7.svg",
+    "static/media/map-pin.8c41fcd3.svg": "/travel-website/static/media/map-pin.8c41fcd3.svg",
+    "static/media/phone.22904118.svg": "/travel-website/static/media/phone.22904118.svg",
+    "static/media/shield.569925d1.svg": "/travel-website/static/media/shield.569925d1.svg",
+    "static/media/twitter.410a9d14.svg": "/travel-website/static/media/twitter.410a9d14.svg",
+    "static/media/navbar.css": "/travel-website/static/media/wallpaper2.6f10b5d2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d62c925.js",
+    "static/js/2.7537489b.chunk.js",
+    "static/css/main.94a664e3.chunk.css",
+    "static/js/main.94e6f2eb.chunk.js"
+  ]
+}
